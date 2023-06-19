@@ -100,4 +100,4 @@ python -u train.py --dist-url 'tcp://localhost:8080' --multiprocessing-distribut
 
 [TransGeo](https://github.com/Jeff-Zilence/TransGeo2022)，[CVUSA](http://mvrl.cs.uky.edu/datasets/cvusa/)，[VIGOR](https://github.com/Jeff-Zilence/VIGOR)，[OriCNN](https://github.com/Liumouliu/OriCNN)，[Deit](https://github.com/facebookresearch/deit)，[MoCo](https://github.com/facebookresearch/moco)
 
-有任何疑问，请通过[邮箱](zhangqingwang2022@email.szu.edu.cn)联系我，我将要在空闲时间及时解答您的问题。
+有任何疑问，请通过邮箱(zhangqingwang2022@email.szu.edu.cn)联系我，我将要在空闲时间及时解答您的问题。
